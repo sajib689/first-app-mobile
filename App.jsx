@@ -4,7 +4,7 @@ import React from 'react';
 const App = () => {
   return (
     <View>
-      <Text>p</Text>
+      <Text>ppp</Text>
     </View>
   );
 };
